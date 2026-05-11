@@ -6,7 +6,7 @@ import { CheckIcon, CloseIcon } from '@/utils/icons'
 import { useEffect, useState } from 'react'
 
 const ThemeMenu = () => {
-  const [theme, setTheme] = useState(() => (typeof window !== 'undefined' ? localStorage.getItem('theme') ?? 'dark' : 'dark'))
+  const [theme, setTheme] = useState(() => (typeof window !== 'undefined' ? localStorage.getItem('theme') ?? 'light' : 'light'))
   const [showThemeMenu, setShowThemeMenu] = useState(false)
   const menuRef = useOutsideClick(() => setShowThemeMenu(false))
 
