@@ -1,8 +1,9 @@
 {
   "priority": 3,
-  "title": "Attorney Management System",
-  "shortDescription": "Customer resource management software tailored for legal services, covering case types such as divorce, immigration, and injury. Built with Next.js, Java and AWS.",
+  "title": "ClickBooks",
+  "shortDescription": "Time tracking and invoicing automation platform that syncs ClickUp work logs directly into QuickBooks, helping agencies and service businesses reduce manual billing work and streamline accounting workflows.",
   "cover": "/clickbooks.png",
   "livePreview": "https://clickbooks.app/",
-  "type": "Professional"
+  "type": "Professional",
+  "siteAge": "2024 - 2026"
 }

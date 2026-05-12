@@ -3,6 +3,7 @@
   "title": "Candidate Dashboard",
   "shortDescription": "Production-style full-stack recruitment dashboard for managing candidate reviews, scoring, authentication, and role-based access. Built with React, TypeScript, FastAPI, JWT authentication, SSE, SQLite, and Docker Compose.",
   "cover": "/recruit.png",
-  "githubLink": "#",
-  "type": "Personal Project"
+  "githubLink": "https://github.com/trishana7/candidate-dashboard",
+  "type": "Personal Project",
+  "siteAge": "2026"
 }
