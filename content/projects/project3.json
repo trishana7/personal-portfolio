@@ -1,0 +1,8 @@
+{
+  "priority": 3,
+  "title": "Attorney Management System",
+  "shortDescription": "Customer resource management software tailored for legal services, covering case types such as divorce, immigration, and injury. Built with Next.js, Java and AWS.",
+  "cover": "/clickbooks.png",
+  "livePreview": "https://clickbooks.app/",
+  "type": "Professional"
+}
